@@ -62,7 +62,7 @@ $conn->close();
 </head>
 <body class="bg-gray-100 flex flex-col h-screen">
     <div class="flex flex-col items-center justify-center flex-1 p-4">
-        <h1 class="text-3xl font-bold mb-2">Anonymous Chat</h1>
+        <h1 class="text-3xl font-bold mb-2">Chat</h1>
         <p class="text-gray-600 mb-8">Connect without revealing your identity.</p>
 
         <!-- Display Error or Success Message -->
