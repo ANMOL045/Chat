@@ -1,6 +1,6 @@
-# Chat Anonymous
+# Chat 
 
-Chat Anonymous is a simple yet powerful platform that allows users to chat anonymously without leaving any trace. No sign-ups, no tracking—just real-time, anonymous conversations. This website is built using HTML, PHP, CSS, and JavaScript to ensure seamless interaction and privacy.
+Chat  is a simple yet powerful platform that allows users to chat anonymously without leaving any trace. No sign-ups, no tracking—just real-time, anonymous conversations. This website is built using HTML, PHP, CSS, and JavaScript to ensure seamless interaction and privacy.
 
 ## Features
 
