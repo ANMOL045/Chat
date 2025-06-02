@@ -22,3 +22,4 @@ Chat  is a simple yet powerful platform that allows users to chat anonymously wi
 
 ```bash
 git clone https://github.com/your-username/chat-anonymous.git
+.
